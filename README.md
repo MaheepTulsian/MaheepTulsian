@@ -1,4 +1,3 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code.jpg)](https://MaheepTulsian.io)
 <h1 align="center">Hi 👋, I'm Maheep Tulsian</h1>
 <h3 align="center">🚀 Tech Maverick | Problem-Solving Extraordinaire | Crafting Code for Real-World Impact and Personal Growth 🌟</h3>
 <img align="right" alt="Coding" width-"400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952irvyz7ea1vb7mpouqp5mm69nzysbdld4op5sen1i&ep=v1_gifs_search&rid=200w.gif&ct=g">
