@@ -4,6 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheeptulsian&label=Profile%20views&color=0e75b6&style=flat" alt="maheeptulsian" /> </p>
 
+<h3 align="left">Achievements:</h3>
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/MaheepTulsian/achievements?format=svg&limit=3" width="450" />
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maheep tulsyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maheep tulsyan" height="30" width="40" /></a>
