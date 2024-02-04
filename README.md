@@ -2,8 +2,6 @@
 <h3 align="center">🚀 Tech Maverick | Problem-Solving Extraordinaire | Crafting Code for Real-World Impact and Personal Growth 🌟</h3>
 <img align="right" alt="Coding" width-"400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952irvyz7ea1vb7mpouqp5mm69nzysbdld4op5sen1i&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheeptulsian&label=Profile%20views&color=0e75b6&style=flat" alt="maheeptulsian" /> </p>
-
 <h3 align="left">Achievements:</h3>
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/MaheepTulsian/achievements?format=svg&limit=3" width="450" />
