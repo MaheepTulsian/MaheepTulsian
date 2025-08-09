@@ -8,7 +8,7 @@
       </p>
     </td>
     <td>
-      <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952irvyz7ea1vb7mpouqp5mm69nzysbdld4op5sen1i&ep=v1_gifs_search&rid=200w.gif&ct=g" width="250" alt="Coding" />
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI5Xls3sx7IiwyFfadaeLLWrbFiMAJsBuTi_XrtkR5XcTdY2qXNrQNpgXSbHa6DAB2V4EYGHwWuBQHgZXn4xkCd2sGuzedLXeZwHmNsgxcmb1WfjD5wP4Da3En1oyn3yQQSToviEFNkI87bbC0G4F9BZucslZu5QNFAXXyAM3PyPuNewYYxSUDVuwdOxeN/s640/Mercenary%20Garage%20Blog%20Custom%20Motorcycle%20Design%20Kirokaze%20Tired%20Now%208%20Bit%20Anime%20Cyberpunk%20GIF.webp" width="850" alt="Coding" />
     </td>
   </tr>
 </table>
