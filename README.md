@@ -17,6 +17,7 @@
 
 ## 💼 Professional Snapshot
 
+- 🏆 **Hackathon Wins** — Winner @ **ETHGlobal New Delhi 2025** (PayPal Track) | Winner @ **Unfold'24** (Coinbase Track)
 - 🎓 **B.Tech CSE** @ SRM University, AP — *CGPA: 8.9 | Merit Scholarship Holder*
 - 🧠 **AI Intern @ Techsnap Educations LLP** — Built and fine-tuned multi-modal AI agents using Ollama, LangChain, RAG pipelines.
 - 🔧 **Full Stack Intern @ SRM University** — Engineered scalable student listing systems with React, Node, MongoDB.
@@ -27,10 +28,11 @@
 
 ## 🔨 Projects Worth Noting
 
+- 🏆 **[BURP](https://ethglobal.com/showcase/burp-xxxxx)** — *Winner @ ETHGlobal New Delhi 2025 (PayPal Track)* — Agent-driven crypto investing platform with intelligent clustering for simplified and diversified portfolio management.
+- 📶 **[SMS Protocol](https://devfolio.co/projects/sms-protocol-1c87)** — *Winner @ Unfold'24 (Coinbase Track)* — Offline crypto transactions using SMS + MPC for secure, accessible blockchain operations.
 - 🚀 **[Up.ly](https://github.com/MaheepTulsian/up.ly)** — AI-powered career assistant with LangChain, LangSmith, job tracking, resume generation, interview simulator & more.
 - 🌐 **[BorrowBridge](https://github.com/MaheepTulsian/borrowbridge2.0)** — Decentralized crowdfunding using Ethereum smart contracts via Thirdweb.
 - 💊 **[Ashwini](https://github.com/MaheepTulsian/Drug-inventory-and-supply-chain)** — Real-time drug inventory and sales management dashboard.
-- 📶 **[SMS Protocol](https://devfolio.co/projects/sms-protocol-1c87)** — *Winner @ Unfold'24 (Coinbase Track)* — Offline crypto transactions using SMS + MPC.
 
 ---
 
