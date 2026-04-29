@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI5Xls3sx7IiwyFfadaeLLWrbFiMAJsBuTi_XrtkR5XcTdY2qXNrQNpgXSbHa6DAB2V4EYGHwWuBQHgZXn4xkCd2sGuzedLXeZwHmNsgxcmb1WfjD5wP4Da3En1oyn3yQQSToviEFNkI87bbC0G4F9BZucslZu5QNFAXXyAM3PyPuNewYYxSUDVuwdOxeN/s640/Mercenary%20Garage%20Blog%20Custom%20Motorcycle%20Design%20Kirokaze%20Tired%20Now%208%20Bit%20Anime%20Cyberpunk%20GIF.webp" width="600" alt="Cyberpunk aesthetic" style="border-radius: 10px; margin-bottom: 30px;">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI5Xls3sx7IiwyFfadaeLLWrbFiMAJsBuTi_XrtkR5XcTdY2qXNrQNpgXSbHa6DAB2V4EYGHwWuBQHgZXn4xkCd2sGuzedLXeZwHmNsgxcmb1WfjD5wP4Da3En1oyn3yQQSToviEFNkI87bbC0G4F9BZucslZu5QNFAXXyAM3PyPuNewYYxSUDVuwdOxeN/s640/Mercenary%20Garage%20Blog%20Custom%20Motorcycle%20Design%20Kirokaze%20Tired%20Now%208%20Bit%20Anime%20Cyberpunk%20GIF.webp" width="850" alt="Cyberpunk aesthetic" style="border-radius: 10px; margin-bottom: 30px;">
 </div>
 
 # 👋 Hi, I'm Maheep Tulsian
@@ -10,9 +10,7 @@ Building scalable, production-grade systems across **AI, distributed infrastruct
 
 ---
 
-## 🎯 Current Focus
-
-💼 **SWE Intern @ Enview Technologies LLP**  
+#### 💼 ***SWE Intern @ Enview Technologies LLP***  
 Building edge orchestration systems, event-driven pipelines, and remote execution frameworks for real-time CV deployments
 
 🏆 **Hackathon Track Record**
@@ -25,7 +23,7 @@ CGPA: 8.9 · Merit Scholar
 
 ---
 
-## 💼 Professional Experience
+## 👾 Experiences
 
 | Role | Organization | Focus |
 |------|--------------|-------|
@@ -34,47 +32,6 @@ CGPA: 8.9 · Merit Scholar
 | **Technical Coordinator** | GDG SRM AP | LLM sessions, hackathons, developer programs |
 | **R&D Member** | Next Tech Lab (Norman Lab) | Peer-reviewed AI/ML & system design work |
 
----
-
-## 🚀 Featured Projects
-
-### 🏆 **BURP** — Agent-Driven Crypto Portfolio Platform
-*ETHGlobal Winner (PayPal Track)*  
-Intelligent clustering and portfolio management powered by autonomous agents
-
-### 📶 **SMS Protocol** — Offline Crypto Transactions
-*Unfold'24 Winner (Coinbase Track)*  
-Seamless crypto transactions via SMS with Multi-Party Computation (MPC)
-
-### 🚀 **Up.ly** — AI-Powered Career Platform
-Retrieval-Augmented Generation, intelligent agents, interview simulator, and job tracking dashboard
-
-### 🌐 **BorrowBridge** — Decentralized Crowdfunding
-Ethereum-based smart contracts for transparent, peer-to-peer fundraising
-
-### 💊 **Ashwini** — Real-Time Drug Inventory Dashboard
-Analytics and inventory management system with live data visualization
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** JavaScript, Python, Java, Solidity, Go  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Python (FastAPI, Django), Express  
-**Databases:** MongoDB, PostgreSQL, Redis  
-**AI/ML:** LangChain, Ollama, RAG, LLMs, Multi-modal Agents  
-**Blockchain:** Ethereum, Solidity, Web3.js  
-**DevOps:** Docker, Kubernetes, AWS  
-
----
-
-## 📊 Quick Stats
-
-- **🎓** B.Tech CSE, Merit Scholar (CGPA: 8.9)
-- **🏆** 3x Hackathon Winner (Web3 & AI tracks)
-- **💻** Full-stack expertise across AI, infrastructure, and distributed systems
-- **🤝** Open-source contributor, R&D collaborator
 
 ---
 
