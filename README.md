@@ -21,7 +21,7 @@
 
 ### 🌱 Open Source
 
-Contributor to **[CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)** — always looking to ship more to open source.
+Started contributing to open source in **[CircuitVerse](https://github.com/CircuitVerse/cv-frontend-vue/pull/978)**, with more on the way.
 
 ### 🏆 Hackathon Wins
 
